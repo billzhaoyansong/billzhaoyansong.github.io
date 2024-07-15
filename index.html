@@ -1,131 +1,152 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+
+<head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Markmap</title>
     <style>
-      svg.markmap {
-        width: 100%;
-        height: 100vh;
-      }
+        svg.markmap {
+            width: 100%;
+            height: 100vh;
+        }
     </style>
-    <script src="https://cdn.jsdelivr.net/npm/markmap-autoloader@0.16"></script>
-  </head>
-  <body>
+    <!-- <script src="https://cdn.jsdelivr.net/npm/markmap-autoloader@0.16"></script> -->
+    <script>
+        window.markmap = {
+            autoLoader: { manual: true, toolbar: true },
+        };
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/markmap-autoloader"></script>
+    <script>
+        // Render in 5s
+        setTimeout(() => {
+            markmap.autoLoader.renderAll();
+        }, 0);
+    </script>
+</head>
+
+<body>
     <div class="markmap">
-      <script type="text/template">
-        ---
-        markmap:
-          colorFreezeLevel: 2
-        ---
-
-        # 羽毛球
-
-        ## 基础
-        
-        - [握拍](https://youtu.be/PYKHYHefiBI?list=PLCKLw4mkS5d5Y1KzXzXwKo2Z1YrGETuR1&t=472)
-          - 用2号握拍法场景：
-            - 1. 后场正手高远球，切球，杀球；
-            - 2. 后场反手大部分场景；
-            - 3. 前场搓球，勾对角，推球
-          - 用1号握拍法场景：准备接对方从高点向下打的球
-          - 用3号握拍法场景：贴网的勾对角，身后的反手被动后场球
-        - [架拍](https://youtu.be/aO_K3DTG55c?t=2288)
-          - 总结：拍头放到头的后面，尽量放松
-        - [挥拍](https://youtu.be/MQsbDNm9LnY?t=618)
-          - 总结：拍头先下到身后,再转身
-        
-        ## 单一技术
-        
-        ### 网前
-        
-        - [快下放网](https://youtu.be/lRCeqCBiDsc?t=121)
-          - 细节：加速抢高点，球拍45度预备，球拍向下轻轻带
-        - [高吊放网](https://youtu.be/lRCeqCBiDsc?t=804)
-          - 对手被动（从后场或中场）打到网前时，球拍45度预备外展向上提拉
-        - [搓网](https://youtu.be/PYKHYHefiBI?t=728)
-        - 勾对角
-          - 细节：球拍伸出去再拉回来，拍面可以立起来直一些
-          - demo
-            - [反手](https://youtu.be/PYKHYHefiBI?t=647)
-        - 推球
-          - demo
-            - [正手](https://youtu.be/PYKHYHefiBI?t=753)
-            - [反手](https://youtu.be/PYKHYHefiBI?t=740)
-        - 挑球
-          - 反手挑直线时，拍头指向11点
-          - 正反手挑对角，球拍要超出击球
-          
-        ### 后场
-        
-        - [高远球](https://www.youtube.com/watch?v=nxekfJLGekc&t=330s)
-          - 不要用扭力
-        - **S切**
-          - 细节：
-            - 球拍指向与出球方向有一定的角度
-            - 拍面往上向上击球，击完后停住结束挥拍，拍头水平于地面，不要再往下拉
-            - 头顶往右边前场打时，更需要注意顶肘向上击球 [1](https://youtu.be/0eyU03Ljvjk?t=601)
-            - 球结束后的效果应该是先上再下，不是直接下 [1](https://youtu.be/0eyU03Ljvjk?t=898)
-          - demo
-            - 头顶到斜线 [背面](https://youtu.be/MQsbDNm9LnY?t=239) [正面](https://youtu.be/0eyU03Ljvjk?t=619)
-          - 改正
-            - 手要来到脸前面 [[1]](https://youtu.be/0eyU03Ljvjk?t=136) [[2]](https://youtu.be/0eyU03Ljvjk?t=477)
-            - 拍头不应该往下拉 [[1]](https://youtu.be/0eyU03Ljvjk?t=164)
-            - 找右边肩膀 [[1]](https://youtu.be/0eyU03Ljvjk?t=239)
-        - **S杀**
-          - 细节：要用扭力
-        - **N切**
-        - **N杀**
-        - 吊球
-          - 细节
-            - 球的落点在右边肩膀上方，不能太靠右，如果靠左就用S切,3号握拍
-            - 向上挥拍
-            - 打完停住
-          - demo
-            - 直线 [1](https://youtu.be/aO_K3DTG55c?t=2136) [2](https://youtu.be/KTbs3rJOYnI)
-        
-        ## 简单综合练习
-        
-        ### 网前假动作
-        
-        - 练习方法：正（反）手网前伸拍到击球点外，假装挑斜线，转
-          - [挑直线](https://www.youtube.com/watch?v=nxekfJLGekc&t=802s)
-          - [勾对角](https://www.youtube.com/watch?v=nxekfJLGekc&t=874s)
-        
-        ### 防守转抢搓
-        
-        - 练习方法：做一个防守的动作，然后加速上网搓球
-        - 要点：
-          - 需要抢快（右脚不落地击球）
-          - 如果来球在网的中间部分，不要搓太远 [demo](https://youtu.be/SUjxOmnIr4Y?t=103)
-          - 如果来球在网的左边部分，用正手搓 [demo](https://youtu.be/SUjxOmnIr4Y?t=177)
-          - 如果来球在网的右边部分，用反手搓 [demo](https://youtu.be/SUjxOmnIr4Y?t=193)
-        
-        ### 中后场 到 右前场训练
-        
-        - 练习方法：后场往右前场向下打一个球，对方回中场后，回一个高球给对方
-        - 要点：
-          - 后场高球用S切
-          - 中后场半高球用N打下
-          - 正手被动球 拍头朝上向内切打
-        
-        ## 全场综合练习
-        
-        ### [S切和S杀](https://www.youtube.com/watch?v=lRCeqCBiDsc)
-        
-        - 训练方法： 从发接发开始，通过网前的手法变化，寻找后场机会进行S切或者S杀
-        - 注意点：
-          - S切和S杀要在有机会往前上再下的时候再使用
-          - S杀要长，S切要短和快 （产生对比？）
-          - 如果对手给后场平高球，拉下就可以
-          - 如果对手给后场半场球，S杀身体
-          - 如果对手给后场球很到位，人会往后坐，就打rally （打高或者带下）
+        <script type="text/template">
+            ---
+            markmap:
+              colorFreezeLevel: 2
+            ---
+            
+            # 羽毛球
+            
+            ## 基础
+            
+            - [握拍](https://youtu.be/PYKHYHefiBI?list=PLCKLw4mkS5d5Y1KzXzXwKo2Z1YrGETuR1&t=472)
+              - 用2号握拍法场景：
+                - 1. 后场正手高远球，切球，杀球；
+                - 2. 后场反手大部分场景；
+                - 3. 前场搓球，勾对角，推球
+              - 用1号握拍法场景：准备接对方从高点向下打的球
+              - 用3号握拍法场景：贴网的勾对角，身后的反手被动后场球
+            - [架拍](https://youtu.be/aO_K3DTG55c?t=2288)
+              - 总结：拍头放到头的后面，尽量放松
+            - [挥拍](https://youtu.be/MQsbDNm9LnY?t=618)
+              - 总结：拍头先下到身后,再转身
+            
+            ## 单一技术
+            
+            ### 网前
+            
+            - [快下放网](https://youtu.be/lRCeqCBiDsc?t=121)
+              - 细节：加速抢高点，球拍45度预备，球拍向下轻轻带
+            - [高吊放网](https://youtu.be/lRCeqCBiDsc?t=804)
+              - 对手被动（从后场或中场）打到网前时，球拍45度预备外展向上提拉
+            - [搓网](https://youtu.be/PYKHYHefiBI?t=728)
+            - 勾对角
+              - 细节：球拍伸出去再拉回来，拍面可以立起来直一些
+              - demo
+                - [反手](https://youtu.be/PYKHYHefiBI?t=647)
+            - 推球
+              - demo
+                - [正手](https://youtu.be/PYKHYHefiBI?t=753)
+                - [反手](https://youtu.be/PYKHYHefiBI?t=740)
+            - 挑球
+              - 反手挑直线时，拍头指向11点
+              - 正反手挑对角，球拍要超出击球
+              
+            ### 后场
+            
+            - 高远球
+              - 细节
+                - 不要用扭力 [1](https://www.youtube.com/watch?v=nxekfJLGekc&t=330s)
+                - 向左侧挥拍 [1](https://youtu.be/0eyU03Ljvjk?t=2748)
+            - 吊球
+              - 细节
+                - 球的落点在右边肩膀上方，不能太靠右，如果靠左就用S切,3号握拍；如果太靠右就应球拍内切
+                - 向上挥拍
+                - 打完停住
+              - demo
+                - 直线 [1](https://youtu.be/aO_K3DTG55c?t=2136) [2](https://youtu.be/KTbs3rJOYnI)
+            - S切
+              - 细节：
+                - 球拍指向与出球方向有一定的角度
+                - 拍面往上，身体向上的过程中击球，左脚相应要后撤，球拍在身体前面挥动，手最后停留在身体左侧，击完后应拍头水平于地面
+                - 头顶往右边前场打时，更需要注意顶肘向上击球 [1](https://youtu.be/0eyU03Ljvjk?t=601)
+                - 球结束后的效果应该是先上再下，不是直接下 [1](https://youtu.be/0eyU03Ljvjk?t=898)
+              - demo
+                - 头顶到斜线 [背面](https://youtu.be/MQsbDNm9LnY?t=239) [正面](https://youtu.be/0eyU03Ljvjk?t=619)
+              - 改正
+                - 球落点找右边肩膀 [[1]](https://youtu.be/0eyU03Ljvjk?t=239)
+                - 手要到身前面挥动 [[1]](https://youtu.be/0eyU03Ljvjk?t=136) [[2]](https://youtu.be/0eyU03Ljvjk?t=477)
+                - 手要移动到身体左侧 [1](https://youtu.be/0eyU03Ljvjk?t=2564) [2](https://youtu.be/0eyU03Ljvjk?t=2711)
+                - 拍头不应该往下拉 [[1]](https://youtu.be/0eyU03Ljvjk?t=164)
+                - 左脚要后撤 [1](https://youtu.be/0eyU03Ljvjk?t=1218)
+            
+            - S杀
+              - 细节：要用扭力
+            - N切
+            - N杀
+            
+            ## 简单综合练习
+            
+            ### 网前假动作
+            
+            - 练习方法：正（反）手网前伸拍到击球点外，假装挑斜线，转
+              - [挑直线](https://www.youtube.com/watch?v=nxekfJLGekc&t=802s)
+              - [勾对角](https://www.youtube.com/watch?v=nxekfJLGekc&t=874s)
+            
+            ### 防守转抢搓
+            
+            - 练习方法：做一个防守的动作，然后加速上网搓球
+            - 要点：
+              - 需要抢快（右脚不落地击球）
+              - 如果来球在网的中间部分，不要搓太远 [demo](https://youtu.be/SUjxOmnIr4Y?t=103)
+              - 如果来球在网的左边部分，用正手搓 [demo](https://youtu.be/SUjxOmnIr4Y?t=177)
+              - 如果来球在网的右边部分，用反手搓 [demo](https://youtu.be/SUjxOmnIr4Y?t=193)
+            
+            ### 中后场 到 右前场训练
+            
+            - 练习方法：后场往右前场向下打一个球，对方回中场后，回一个高吊放网球给对方
+            - 要点：
+              - 后场高球用S切
+              - 中后场半高球用N打下
+              - 正手被动球 拍头朝上向内切打
+            
+            ## 全场综合练习
+            
+            ### [S切和S杀](https://www.youtube.com/watch?v=lRCeqCBiDsc)
+            
+            - 训练方法： 从发接发开始，通过网前的手法变化，寻找后场机会进行S切或者S杀
+            - 注意点：
+              - S切和S杀要在有机会往前上再下的时候再使用
+              - S杀要长，S切要短和快 （产生对比？）
+              - 如果对手给后场平高球，拉下就可以
+              - 如果对手给后场半场球，S杀身体
+              - 如果对手给后场球很到位，人会往后坐，就打rally （打高或者带下）
+            
         
         
 
       </script>
     </div>
-  </body>
+</body>
+
 </html>
