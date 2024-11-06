@@ -1,4 +1,4 @@
-- Version: 2024/10/23
+- Version: 2024/11/06
 - Author: BZ
 
 <style>
@@ -171,6 +171,19 @@
 </tr>
 <tr>
 <td>
+
+### Problem: Popping Ankle
+
+#### Tightness Release
+
+- Guasha with a spoon
+  1. lubrication with lotion/oil
+  2. [long slow strokes over the side tissue](https://youtube.com/clip/Ugkx-Xm3t3kyYneYe1tlenSGGcmBTJeNkCKS?si=zcUxokiVlgxf-WQV)
+     - if you feel a spot like sand paper, target it
+  3. strokes over all the soft tissues around ankle
+  4. [massage over the popping point](https://youtube.com/clip/UgkxYtLFdxEhGdu0qcFoA6cIzwEyaWnpT7LO?si=7tbpaqSV0o4WBu4o)
+
+---
 
 ### Problem: Ankle Instability
 
