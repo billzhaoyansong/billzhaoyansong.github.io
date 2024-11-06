@@ -161,3 +161,103 @@
 </td>
 </tr>
 </table>
+
+<table class="table">
+<caption>康复训练</caption>
+<thead>
+<tr>
+<th>脚踝</th>
+<th>膝盖</th>
+</tr>
+<tr>
+<td>
+
+### Problem: Ankle Instability
+
+#### Plyometrics
+
+- [Hopping](https://youtube.com/clip/Ugkx4hT3XkLOwC97FQr95Lnk6u0gMfucN_nG?si=ur8ROTfZhVdkfAbd)
+  - Double (then Single) leg hops in place (3 sets x 30 seconds)
+  - Double (then Single) leg hops forward & backward
+  - Double (then Single) leg hops side to side
+- [Jumping](https://youtube.com/clip/Ugkx6LSypcYkP7S58vz1nDN_2SrnYxLiimEh?si=ABAoH7bdjf8a5j-9)
+  - Double leg vertical jump (3 sets x 8 repetitions)
+  - Vertical jump 2 to 1
+  - Single leg vertical jump (3 sets x 6 repetitions)
+  - Single leg forward/lateral/diagonal jump
+
+#### Lower Extremity Strength
+
+- [Single leg RDL](https://youtube.com/clip/UgkxddP0GhjWk6WyLWUxS3YofI4OELuxBqVi?si=Dceijb6nETqi2lJf)
+  - Single leg RDL assist/bodyweight/weighted (3-4 sets x 6-12 repetitions)
+- [Lateral step down](https://youtube.com/clip/UgkxZJqBfYvTbU-E-ybIdP_pcSq2pZYE8FCw?si=m_XFLfTgQ3TJ_D8Z)
+  - Lateral step down on increased height (3-4 sets x 6-12 repetitions)
+
+#### Dynamic Balance
+
+- [Reach with feet](https://youtube.com/clip/UgkxX4g-CxF1Qc7SsZedZydI-_zRrLU9F6Eg?si=FgegDsj6DOagpBFH) (3 sets x 30-60 seconds)
+- [Reach with hands](https://youtube.com/clip/UgkxqpCz_ZZufOiOwsv0qH1BmWgVbRR6fFQz?si=F5BCwi19dw-8acs4)
+
+#### Static Balance
+
+- [single leg stance with eyes open/closed](https://youtube.com/clip/Ugkxs8CqTdWvCd-WhqC7ymW_EH9tbiwk8PdS?si=zORdfxaFdIzqHrm-) (3 sets x 60 seconds each leg)
+- [single leg stance on foam pad with eyes open/closed](https://youtube.com/clip/Ugkxf_QuBxCmW2P7HfnhT0NE1nqmUKP3-Mvr?si=Xuj_3_BrsQUaf5_s)
+- [kettlebell pass on foam pad with eyes open/closed](https://youtube.com/clip/Ugkx8mL_1OphsHsnbCdH-OHqojg0ZIW4zxjv?si=J08XEXoPo5z5cW8w)
+
+#### Ankle-Specific Strength
+
+- [Ankle Eversion](https://youtube.com/clip/UgkxWdmjalK_nRe5l-Hh-XSsa9fX7nFUz6Aa?si=my9_Z0hKBQA7FudZ) (3 sets x 25 repetitions)
+- [Dorsiflexion](https://youtube.com/clip/UgkxkmvIEEJsx1LBZdN1ds2eU-VYhwlJXpwh?si=ZsTv13swThXPLhzI) (3 sets x 25 repetitions)
+- [Heel raise](https://youtube.com/clip/UgkxNxCQiyq9hqErMMYt2hChRvEH2olDitN2?si=2MyI-2LDZjr3_nmK) (3-4 sets x 6-12 repetitions)
+
+</td>
+<td>
+
+### Problem: The Nasty Knee Cracking (watermelon cracker)
+
+- [quick fix](https://youtu.be/hQgdc4IciHo?t=110)
+- [longterm fix: foam roller massage](https://youtu.be/hQgdc4IciHo?t=177) (3-5 minutes warmup)
+
+### Problem: Patellar Tendinopathy / Tendinitis / Tendinosis | Jumper’s Knee Rehab
+
+#### Isometrics
+
+- [double/single leg wall sit](https://youtube.com/clip/UgkxQC18CDkAa1-ct-xo8LYpi2dbeza1t3j7?si=cvXExVG8vuys61xc)
+- heel elevated wall sit
+- spanish squat
+- single leg seated knee extension
+  - 3-5 sets of 45 sec, 2min rest, 1-3x/day
+
+#### Heavy Slow Resistance
+
+- tenders are affected more by the rate of loading than the magnitude of the loading, so you can pick any load in this stage as long as it sufficiently loads the patellar tendon
+- [squat](https://youtube.com/clip/UgkxCR_uNgxq5YtcitG5aI0bkzT5a2evUE_b?si=ZGIV3PwPORwpKHdY)
+- [split squat](https://youtube.com/clip/UgkxbzU4HoBreiXMPB8vnMFWelTRxpc1p7mq?si=oLtMSNVPUoNwDdLL)
+- [step down](https://youtube.com/clip/UgkxxyZyCFcOOUrhGhlYZGkIyW7dnrRb5Ff4?si=BscCEQ4NLaYs3h0M)
+  - 1-2 exercises | 3-4 sets of 6-15 reps | 2-3 days a week
+  - slow tempo: e.g. descend 3 seconds + 1 second at the bottom + ascend 3 seconds
+
+#### Energy Storage & Release
+
+- [combo 1](https://youtube.com/clip/UgkxIX_WE4Zqp2gfj6DtmGn4IR4k71gH9rgD?si=Im34HQv_gEgmcLQM)
+  - countermovement box jump
+  - countermovement jump
+  - bilateral depth drop
+  - bilateral depth jump
+  - single leg depth drop
+  - single depth jump
+- [combo 2](https://youtube.com/clip/Ugkx6g6SrcEMSbB3aa9xRWewbRILjmE4-80h?si=bwpLEnwzlKgZzj5m)
+  - forward lunge
+  - forward lunge with step back
+  - step and land
+  - step and land with step back
+  - running with step back
+- hints
+  - 2-3 times a week
+  - intentionally load the knee extensor mechanism as much as tolerable
+
+</td>
+</tr>
+</thead>
+<tbody></tbody>
+</table>
