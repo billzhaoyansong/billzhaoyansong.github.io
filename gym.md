@@ -106,6 +106,8 @@
   - [髋部灵活性训练组合(the4academy)](https://www.instagram.com/p/CntOUa2ofXV/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
   - [髋部灵活性训练组合(-夏天__)](https://xhslink.com/A/gVWCLF)
   - [髋部热身(Eden)](https://drive.google.com/file/d/1U44RqPIuEZDkzHli-u8bRMX5NTTob5zd/view?usp=drive_link)
+  - E3 Rehab
+    - 
 - 踝关节
   - [踝关节灵活性训练组合](https://xhslink.com/C/bF5Ek9)
 
@@ -168,6 +170,7 @@
 <tr>
 <th>脚踝</th>
 <th>膝盖</th>
+<th>臀</th>
 </tr>
 <tr>
 <td>
@@ -176,19 +179,24 @@
 
 #### Tightness Release
 
-- Guasha with a spoon
-  1. lubrication with lotion/oil
-  2. [long slow strokes over the side tissue](https://youtube.com/clip/Ugkx-Xm3t3kyYneYe1tlenSGGcmBTJeNkCKS?si=zcUxokiVlgxf-WQV)
-     - if you feel a spot like sand paper, target it
-  3. strokes over all the soft tissues around ankle
-  4. [massage over the popping point](https://youtube.com/clip/UgkxYtLFdxEhGdu0qcFoA6cIzwEyaWnpT7LO?si=7tbpaqSV0o4WBu4o)
+<details>
+  <summary>Step 1: Guasha with a spoon</summary>
+  
+1. lubrication with lotion/oil
+2. [long slow strokes over the side tissue](https://youtube.com/clip/Ugkx-Xm3t3kyYneYe1tlenSGGcmBTJeNkCKS?si=zcUxokiVlgxf-WQV)
+  - if you feel a spot like sand paper, target it
+3. strokes over all the soft tissues around ankle
+4. [massage over the popping point](https://youtube.com/clip/UgkxYtLFdxEhGdu0qcFoA6cIzwEyaWnpT7LO?si=7tbpaqSV0o4WBu4o)
+
+</details>
 
 ---
 
 ### Problem: Ankle Instability
 
-#### Plyometrics
-
+<details>
+  <summary>Step 1: Plyometrics (Choose 1)</summary>
+  
 - [Hopping](https://youtube.com/clip/Ugkx4hT3XkLOwC97FQr95Lnk6u0gMfucN_nG?si=ur8ROTfZhVdkfAbd)
   - Double (then Single) leg hops in place (3 sets x 30 seconds)
   - Double (then Single) leg hops forward & backward
@@ -199,50 +207,70 @@
   - Single leg vertical jump (3 sets x 6 repetitions)
   - Single leg forward/lateral/diagonal jump
 
-#### Lower Extremity Strength
+</details>
 
+<details>
+  <summary>Step 2: Lower Extremity Strength (Choose 1)</summary>
+  
 - [Single leg RDL](https://youtube.com/clip/UgkxddP0GhjWk6WyLWUxS3YofI4OELuxBqVi?si=Dceijb6nETqi2lJf)
   - Single leg RDL assist/bodyweight/weighted (3-4 sets x 6-12 repetitions)
 - [Lateral step down](https://youtube.com/clip/UgkxZJqBfYvTbU-E-ybIdP_pcSq2pZYE8FCw?si=m_XFLfTgQ3TJ_D8Z)
   - Lateral step down on increased height (3-4 sets x 6-12 repetitions)
 
-#### Dynamic Balance
+</details>
 
+<details>
+  <summary>Step 3: Dynamic Balance (Choose 1)</summary>
+  
 - [Reach with feet](https://youtube.com/clip/UgkxX4g-CxF1Qc7SsZedZydI-_zRrLU9F6Eg?si=FgegDsj6DOagpBFH) (3 sets x 30-60 seconds)
 - [Reach with hands](https://youtube.com/clip/UgkxqpCz_ZZufOiOwsv0qH1BmWgVbRR6fFQz?si=F5BCwi19dw-8acs4)
 
-#### Static Balance
+</details>
 
+<details>
+  <summary>Step 4: Static Balance (Choose 1)</summary>
+  
 - [single leg stance with eyes open/closed](https://youtube.com/clip/Ugkxs8CqTdWvCd-WhqC7ymW_EH9tbiwk8PdS?si=zORdfxaFdIzqHrm-) (3 sets x 60 seconds each leg)
 - [single leg stance on foam pad with eyes open/closed](https://youtube.com/clip/Ugkxf_QuBxCmW2P7HfnhT0NE1nqmUKP3-Mvr?si=Xuj_3_BrsQUaf5_s)
 - [kettlebell pass on foam pad with eyes open/closed](https://youtube.com/clip/Ugkx8mL_1OphsHsnbCdH-OHqojg0ZIW4zxjv?si=J08XEXoPo5z5cW8w)
 
-#### Ankle-Specific Strength
+</details>
 
+<details>
+  <summary>Step 5: Ankle-Specific Strength</summary>
+  
 - [Ankle Eversion](https://youtube.com/clip/UgkxWdmjalK_nRe5l-Hh-XSsa9fX7nFUz6Aa?si=my9_Z0hKBQA7FudZ) (3 sets x 25 repetitions)
 - [Dorsiflexion](https://youtube.com/clip/UgkxkmvIEEJsx1LBZdN1ds2eU-VYhwlJXpwh?si=ZsTv13swThXPLhzI) (3 sets x 25 repetitions)
 - [Heel raise](https://youtube.com/clip/UgkxNxCQiyq9hqErMMYt2hChRvEH2olDitN2?si=2MyI-2LDZjr3_nmK) (3-4 sets x 6-12 repetitions)
+</details>
 
 </td>
 <td>
 
-### Problem: The Nasty Knee Cracking (watermelon cracker)
+### Problem: The Nasty Knee Cracking
 
 - [quick fix](https://youtu.be/hQgdc4IciHo?t=110)
-- [longterm fix: foam roller massage](https://youtu.be/hQgdc4IciHo?t=177) (3-5 minutes warmup)
+- [longterm fix: foam roller massage](https://youtu.be/hQgdc4IciHo?t=177) 
+  - 3-5 minutes warmup
 
-### Problem: Patellar Tendinopathy / Tendinitis / Tendinosis | Jumper’s Knee Rehab
+---
 
-#### Isometrics
+### Problem: Jumper’s Knee Rehab
 
+<details>
+  <summary>Step 1: Isometrics </summary>
+  
 - [double/single leg wall sit](https://youtube.com/clip/UgkxQC18CDkAa1-ct-xo8LYpi2dbeza1t3j7?si=cvXExVG8vuys61xc)
 - heel elevated wall sit
 - spanish squat
 - single leg seated knee extension
   - 3-5 sets of 45 sec, 2min rest, 1-3x/day
 
-#### Heavy Slow Resistance
+</details>
 
+<details>
+  <summary>Step 2: Heavy Slow Resistance </summary>
+  
 - tenders are affected more by the rate of loading than the magnitude of the loading, so you can pick any load in this stage as long as it sufficiently loads the patellar tendon
 - [squat](https://youtube.com/clip/UgkxCR_uNgxq5YtcitG5aI0bkzT5a2evUE_b?si=ZGIV3PwPORwpKHdY)
 - [split squat](https://youtube.com/clip/UgkxbzU4HoBreiXMPB8vnMFWelTRxpc1p7mq?si=oLtMSNVPUoNwDdLL)
@@ -250,8 +278,11 @@
   - 1-2 exercises | 3-4 sets of 6-15 reps | 2-3 days a week
   - slow tempo: e.g. descend 3 seconds + 1 second at the bottom + ascend 3 seconds
 
-#### Energy Storage & Release
+</details>
 
+<details>
+  <summary>Step 3: Energy Storage & Release </summary>
+  
 - [combo 1](https://youtube.com/clip/UgkxIX_WE4Zqp2gfj6DtmGn4IR4k71gH9rgD?si=Im34HQv_gEgmcLQM)
   - countermovement box jump
   - countermovement jump
@@ -268,6 +299,52 @@
 - hints
   - 2-3 times a week
   - intentionally load the knee extensor mechanism as much as tolerable
+
+</details>
+
+</td>
+<td>
+
+### Problem: Mobility
+
+<details>
+  <summary>Preliminary: Types of Exercises</summary>
+  
+- Type 1: Exercises that stretch into that range of motion
+  - e.g. [improve hip extension range of motion by stretching](https://youtube.com/clip/UgkxVtYU9RFLzQdaHgZ16Uz5nU8l-vNOsCXh?si=bj5ozwsQPrkOOT_e), options:
+    1. [static stretching](https://youtube.com/clip/UgkxZpz7bo54IqdFeSfI4sUTvmQNBVgFl1dZ?si=im-uTNmOigfWFL5V)
+    2. [dynamic stretching](https://youtube.com/clip/UgkxNng-8F3OhZZ1ZoVCedpq9euO9e2atdOE?si=Xrtf7Js6crqFM94X)
+    3. [contract & relax](https://youtube.com/clip/Ugkx5StQCTX7Els57y6DEWF_17imWSQlys5I?si=WMv1D0G4pYPS7axO)
+    4. [lengthen & strengthen](https://youtube.com/clip/UgkxJaub1FW0zMLzk4okDU3jqUlIMlGnLakC?si=LbIOMX1VdZlDxjBI)
+    5. [full range of motion](https://youtube.com/clip/UgkxklAolrNfsDhY6zgKVyz8HmbkWyaepMyr?si=O8eheUge7gImi7Mr)
+- Type 2: Exercises by strengthening the muscles that move your hip in that specific direction
+  - e.g. [glute bridge and standing cable](https://youtube.com/clip/UgkxWdwTGdP6xFJH4udv3rYy_48Ntb_9HZHt?si=yt2hl65kQrHt8qoR)
+  
+</details>
+
+
+<details>
+  <summary>Hip Rotation</summary>
+
+- External Rotation
+  - [stretching hip internal rotators & strengthening hip external rotators](https://youtube.com/clip/UgkxBs9UuLVR0UfMAGuv_mHU1CqXM5Vb5yR2?si=7xhp11OiGal9DpSo)
+  - [seated/supine figure 4 stretch](https://youtube.com/clip/UgkxAV_zOjN3IX6xldlJvLfcOLeAYl6rBeFi?si=rqlSGxJj6Azbfvw1)
+  - [pigeon pose stretching and variants](https://youtube.com/clip/UgkxdGU2BTmj9zjqHBA-P9im0mEZNMZWWHf8?si=AGdjLAuJWfBdSfF8)
+- Internal Rotation
+  - [stretching hip external rotators & strengthening hip internal rotators](https://youtube.com/clip/UgkxsXxu_72f9BtAamG4M016hjozIE8lIXZm?si=wQRpPHhxPVl-nGvN)
+  - [supine internal rotation stretch](https://youtube.com/clip/Ugkx0eM7fiRMMMHehaYRNzV1xh82XFSUqHT_?si=OZHAfUOdG97znV6W)
+    - 30-60 seconds
+- External & Internal Rotation Together
+  - [90/90 Holds](https://youtube.com/clip/UgkxX7BtfC1muEVu3S5TAeQAYmR0RAE1fqDM?si=wEgqknVBho55rB22)
+  - [90/90 External Rotation Bias](https://youtube.com/clip/UgkxSZsat3Yzxsbygh06UF-yCCm6TmNvCeey?si=76PFfsQ1E1NnCIHM)
+  - [90/90 Internal Rotation Bias](https://youtube.com/clip/UgkxPc4f2Qn8Z_-yRGlTnTcQ6o307r72F5rw?si=Nm8xAoO7DBhpP8gf)
+  - [90/90 external rotation strength](https://youtube.com/clip/UgkxLQoHXkeOJVmiDVUU_Y_yeESqEHzjDLx1?si=6Erm0-vUaU9zlqnh)
+  - [90/90 internal rotation strength](https://youtube.com/clip/UgkxQnuA-5rS2_3ZPqbf26q0kqqutPsNIomi?si=UofUUgwEm6_mtbTs)
+    - 10-15 repetitions witha a 2-3 second hold
+  - [90/90 transition](https://youtube.com/clip/Ugkxg5o1uzqK1_3Pe9hJrB73Jfei5k8qTEY-?si=lHmn3FBYJlEVx2m1)
+
+</details>
+
 
 </td>
 </tr>
