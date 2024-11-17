@@ -1,10 +1,20 @@
+<style>
+    table{
+        border: 1px solid gray;
+    }
+    td{
+        vertical-align: top;
+        border: 1px solid gray;
+    }
+</style>
+
 # 羽毛球
 
 ## 我的问题
 
 - 为什么后场挥拍看起来会卡？
-  1. 击球点太靠后？⭐
-  2. 通过垫脚提高击球高度？⭐
+  1. 架拍时左手抬高⭐
+  2. 通过垫脚提高击球高度⭐
   3. 挥拍后拍头指向地面？⭐
   4. 肩膀用太多？⭐⭐⭐
 
