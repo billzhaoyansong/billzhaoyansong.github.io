@@ -77,6 +77,21 @@
 </tr>
 </table>
 
+## 前场技术
+
+- 搓球
+  - [Momota](https://www.bilibili.com/video/BV1Kf4y1s71c?t=133.0)
+    - [用身体调整好拍面 + 向前迈步的速度让球转](https://www.bilibili.com/video/BV1Kf4y1s71c?t=82.6)
+    - [不需要使用很多手腕](https://www.bilibili.com/video/BV1Kf4y1s71c?t=73.0)
+    - [类似击剑](https://www.bilibili.com/video/BV1Kf4y1s71c?t=259.1)
+  - Tago
+    - [正手 展搓 + 挑球(正面视角)](https://youtube.com/clip/UgkxSbzO99_bL595HyIu1jh2NdZxnVE6K3Di?si=hzm1IZx5ytJBUJ5Z)
+    - [正手 展搓 + 挑球(背面视角)](https://youtube.com/clip/Ugkxd1UJf051Jyyz17WYiyRKa2d2pX89svYt?si=U1_9pJjGVYAX2pit)
+      - 向前的力用身体
+      - 向左或右的力用小臂旋转
+    - [反手 展搓(正面视角)](https://youtube.com/clip/Ugkx4aVwqEn9IJAd5kjZ5TNzYfxaVtydamnh?si=SnGKrDBvJrxN5zuX)
+    - [反手 展搓 + 挑球(背面视角)](https://youtube.com/clip/UgkxXdeU45dnhJhXehRfL5dixDQXaTKC6yMG?si=yXKR_I_ArbE-5cPq)
+
 ## 训练方法
 
 ### 中前场训练
@@ -174,3 +189,41 @@
 
 ## 中前场球路
 
+- 多以挡远网为主
+  - [LD Gade 2011](https://youtube.com/clip/UgkxejDJmjbj7nLKqd7So1PEl598xnfCbXiB?si=oLtFU5IGvOe4tke-)
+- 反手前场挡远网抓推正手
+  - [LD 2011](https://youtube.com/clip/UgkxM_LbY7SGn1Yl1Y6M7rYWNsZQ55sXvOv9?si=uyzGA0QWQHv4T74v)
+
+---
+
+### 创造近网机会以及近网球打法
+
+- 注意：如果对手回近网球时是主动姿态，那近网球也就没有效果了
+  - [LD Gade](https://youtube.com/clip/UgkxwT_blAYMADz66_cVTw6Fpd6ZL_4509cg?si=TrYY1qFFba49nuwu)
+
+<table class="table">
+<tr>
+<th colspan="2"></th>
+<th>快推</th>
+<th>扑球</th>
+</tr>
+<tr>
+<th rowspan="2">创造机会</th>
+<th>轻劈</th>
+<td>
+
+- [LD 2011](https://youtube.com/clip/Ugkx7OVK8bEuYZH8MteI10R0dE0-pgE9WNN_?si=4qjZz5f5Tq97nCuX)
+
+</td>
+<td></td>
+</tr>
+<tr>
+<th>网前假动作</th>
+<td></td>
+<td>
+
+- [LD 2011](https://youtube.com/clip/UgkxsKboKtsOG9EvKMwsnqCI3FAyVEXJO1h_?si=sUq8TibMq8_fNcS5)
+
+</td>
+</tr>
+</table>
