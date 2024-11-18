@@ -1,19 +1,19 @@
-- Version: 2024/11/17
+- Version: 2024/11/18
 - Author: BZ
 
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+
 <style>
-    table{
-        border: 1px solid gray;
-    }
-    td{
-        vertical-align: top;
-        border: 1px solid gray;
-    }
+.vscode-light th {
+    border-color: rgba(0, 0, 0, 0.18);
+}
 </style>
 
 # 健身房训练
 
-<table>
+<table class="table table-bordered">
+<thead class="table-light">
 <tr>
 <th></th>
 <th>全身</th>
@@ -21,6 +21,8 @@
 <th>核心</th>
 <th>臀腿</th>
 </tr>
+</thead>
+<tbody>
 <tr>
 <th>热身</th>
 <td>
@@ -48,6 +50,7 @@
 - [弹力带后拉跳跃弓步(HYQ)](https://youtube.com/clip/UgkxMFz7Sq29Hpv924Cxg99Rud-d1d1y1cxE?si=thzG3SJwkKN5TR6l)
 - [阻力带行进(HYQ)](https://youtube.com/clip/Ugkx70aHhUQAlmg8qEKVVBfJNHU8F1x7uki9?si=KLFXqE37JLcXtQan)
 - [阻力带大腿外展(HYQ)](https://youtube.com/clip/UgkxkyenNSDpx7jxGVhZNVv_K6xKeAxKXwac?si=i_Vl2u5oB6j-Z9oD)
+- [弹力带行进(LD)](https://youtube.com/clip/UgkxfItQU20hzw5mk4nNDyOZAA2R42EW3r2y?si=ljkUbH-qwbN95-sP)
 
 </td>
 </tr>
@@ -73,13 +76,14 @@
 </td>
 <td>
 
-
 - [坐姿臀肌挤压(VA)](https://www.instagram.com/reel/C3Am3zZyNI8/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 - [六角杆硬拉+保加利亚蹲(VA)](https://www.instagram.com/reel/C_J7JIKofbl/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 - [保加利亚蹲(VA)](https://www.instagram.com/reel/C-u4KJzNJcv/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+- [不平衡保加利亚蹲(LD)](https://youtube.com/clip/UgkxW1nP38ezyFbSqNulujwCnp4o5yaqhqss?si=2i8xkhGMdRcpwhdB)
 - [杠铃单腿硬拉(HYQ)](https://youtube.com/clip/UgkxQGqU2O0ku8Cp4ShzUcjtashYM5f21NPD?si=t1w0SFkTZOPX_Bjo)
 - [史密斯架马步(HYQ)](https://youtube.com/clip/UgkxAcrvub92x8BMgM-VNphOG3Y9rErBHrcM?si=VDqTMaREBe2y_AVT)
 - [单腿力量训练(the4cademy)](https://drive.google.com/file/d/1nlEJnQ_GyCpWW9PQlemf8_Y7MlzlsO3V/view?usp=drive_link)
+- [单腿quad+hamstring(LD)](https://youtube.com/clip/Ugkxh1q9oI5_dHV5Nh6KChJWSWdWI945V1hu?si=VeCsP_P_NspscqTD)
 
 </td>
 </tr>
@@ -95,19 +99,18 @@
 
 - [转身砸药球(VA)](https://www.youtube.com/shorts/w42TVK8W7CY)
 - [直立砸药球(VA)](https://www.youtube.com/shorts/z0oB_IT3rJI)
+- [核心训练(LD)](https://youtube.com/clip/UgkxjLnvO_seQ_2CpWHXgzY_0dOijIu1tG0a?si=qjGS6SbrGkV7DlNC)
+  - 每个动作停留20s
 
 </td>
 <td>
 
 - [哑铃高脚杯深蹲(VA)](https://www.youtube.com/shorts/Df71KCxDDmQ)
-- [单腿深跳远(TW)](https://drive.google.com/file/d/1Hr2Wg_gyl9cZHR6KOPWa7ZjbJ6XscFh1/view?usp=drive_link)
-- [单腿箱上弓步跳(TW)](https://drive.google.com/file/d/1UyeykHnlGTaQH6FObrCjRfwMi22UzCen/view?usp=drive_link)
-- [单腿跨栏跳(TW)](https://drive.google.com/file/d/1FBcJjH6VcKX81UpINhP2SneWaWOAwmYE/view?usp=drive_link)
 - [滑冰者侧跳+腾空跳(Badminton Insight)](https://youtube.com/clip/Ugkx5Hst_I9Hk_xTjiYzmp-qbtaJzVT5IIVW?si=1HKQKeK0E8ty9n02)
-- [马步杠铃片高举(NS)](https://drive.google.com/file/d/1oIUkhY75cSJC4idb3m-RC-LlEDmkWRRa/view?usp=drive_link)
-- [马步砸药球台阶跳跃(NS)](https://drive.google.com/file/d/1qqvp5POB2b_AEES8vn4I18O6gvTdoqrQ/view?usp=drive_link)
 - [腿部爆发力训练组合(laget_om_ka)](https://www.instagram.com/reel/DA0ZEqfvhzJ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 - [腿部爆发力训练组合(the4academy)](https://www.instagram.com/p/CmD8i2tLJAE/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+- [大腿后侧训练(LD)](https://youtube.com/clip/UgkxYO9lvpdOC1Lcou9CBcA1aDo_-uBjIwHb?si=JtHfh78UzNA_eTnG)
+- [踩单车20min(LD)](https://youtube.com/clip/Ugkxlo2JAjTINSQGJTgsu2lj9q1qsxfxfPnn?si=wAtNIrttzycjpR00)
 
 </td>
 </tr>
@@ -178,17 +181,20 @@
 <td></td>
 <td></td>
 </tr> -->
+</tbody>
 </table>
 
 <!-- 康复训练表 -->
-<table class="table">
-<caption>康复训练</caption>
+# 康复训练
+
+<table class="table table-bordered">
 <thead>
 <tr>
 <th>脚踝</th>
 <th>膝盖</th>
 <th>臀</th>
 </tr>
+</thead>
 <tr>
 <td>
 
