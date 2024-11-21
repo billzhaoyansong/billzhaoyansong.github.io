@@ -40,13 +40,35 @@
 <td>
 
 <details>
-<summary>Bad Insight杀球诊所</summary>
+<summary>Kento Momota高远球</summary>
 
-1. 力量传导顺序：$腿 \Rightarrow 屁股 \Rightarrow 躯干 \Rightarrow 肩膀/手臂$
-2. 左手一起架拍高
-3. 握拍放松
+1. [高远球最重要的点是高度](https://www.bilibili.com/video/BV1Xy4y1p7VZ?t=47.7)
+   - 需要高度刚好的弧线(不够高会被对手杀回来，过高又会浪费时间)
+2. [主动时身体前倾在高点打，被动时降低击球点](https://www.bilibili.com/video/BV1Xy4y1p7VZ?t=70.6)
+3. [打球时将重心保持在中间](https://www.bilibili.com/video/BV1Xy4y1p7VZ?t=90.5)
+4. [保持重心，让高远球、杀球、吊球前期动作一致；打高远球时，球拍最后指向前方；杀球时，球拍指向地面](https://www.bilibili.com/video/BV1Xy4y1p7VZ?t=161.7)
 
-- [视频](https://www.youtube.com/watch?v=c_siA4X1BLE)
+- [KM正手底线和反手底线示范](https://www.bilibili.com/video/BV1Xy4y1p7VZ?t=184.5)
+
+</details>
+
+<details>
+<summary>Kento Momota杀球</summary>
+
+- [杀球的关键是Timing + 早点进入落点](https://www.bilibili.com/video/BV1fq4y1J71i?t=48.7)
+- [杀球瞬间才握拍](https://www.bilibili.com/video/BV1fq4y1J71i?t=141.5)
+- [击球后有被向前推的感觉](https://www.bilibili.com/video/BV1fq4y1J71i?t=231.5)
+
+</details>
+
+<details>
+<summary>Kenichi Tago高远球</summary>
+
+1. [取球扔球+1234步伐](https://www.bilibili.com/video/BV1DT4y1U7qC?t=50.2)
+2. [挥拍时身体成一条直线，是一个好的挥拍效果](https://www.bilibili.com/video/BV1DT4y1U7qC?t=84.5)
+   - 说明使用了腿部发力
+3. [扔球时的击球点](https://www.bilibili.com/video/BV1DT4y1U7qC?t=158.1)
+4. [扔球时不要用手的力量](https://www.bilibili.com/video/BV1DT4y1U7qC?t=290.6)
 
 </details>
 
