@@ -101,12 +101,16 @@
 
 ## 前场技术
 
+
+
+
 - 搓球
   - [Momota](https://www.bilibili.com/video/BV1Kf4y1s71c?t=133.0)
     - [用身体调整好拍面 + 向前迈步的速度让球转](https://www.bilibili.com/video/BV1Kf4y1s71c?t=82.6)
     - [不需要使用很多手腕](https://www.bilibili.com/video/BV1Kf4y1s71c?t=73.0)
     - [类似击剑](https://www.bilibili.com/video/BV1Kf4y1s71c?t=259.1)
   - Tago
+    - [播放列表](https://www.bilibili.com/video/BV1254y1r7HY?spm_id_from=333.788.videopod.sections&vd_source=e34ac76719ec23253957c15cc4c3c375)
     - [正手 展搓 + 挑球(正面视角)](https://youtube.com/clip/UgkxSbzO99_bL595HyIu1jh2NdZxnVE6K3Di?si=hzm1IZx5ytJBUJ5Z)
     - [正手 展搓 + 挑球(背面视角)](https://youtube.com/clip/Ugkxd1UJf051Jyyz17WYiyRKa2d2pX89svYt?si=U1_9pJjGVYAX2pit)
       - 向前的力用身体
