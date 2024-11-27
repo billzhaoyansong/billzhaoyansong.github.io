@@ -33,11 +33,51 @@
       @apply pl-6;
     }
     a{
-      @apply text-lime-500 underline decoration-solid;
+      @apply text-blue-500 underline decoration-solid;
     }
 
     .row-group-title{
       @apply text-left italic bg-slate-100;
+    }
+
+    details {  
+      background-color: #f9f9f9;  
+      border: 1px solid #ddd;  
+      border-radius: 4px;  
+      padding: 10px;  
+      margin: 10px 0;  
+      transition: background-color 0.3s, border-color 0.3s;  
+    }  
+
+    details > summary {  
+      cursor: pointer;  
+      font-weight: bold;  
+      outline: none;  /* Remove default outline */  
+      padding: 8px;  
+      background-color: #007BFF; /* Change to your preferred color */  
+      color: white;  
+      border-radius: 4px;  
+      transition: background-color 0.3s;  
+    }  
+
+    details > summary > a{
+      color: white;
+    }
+
+    details > summary:hover {  
+      background-color: #0056b3; /* Darker shade on hover */  
+    }  
+
+    details > *:not(:first-child) {  
+      padding: 10px;  
+      display: none; /* Hide by default */  
+    }  
+    details[open] summary {  
+      background-color: #0056b3; /* Darker shade when open */  
+    }  
+
+    details[open] > *:not(:first-child) {  
+      display: block; /* Show content when open */  
     }
   </style>
 </head>
@@ -46,7 +86,6 @@
 
   <div class="container px-6 text-sm">
 
-    <!-- ----------------  手上技术 container --------------- -->
     <div class="flex flex-row flex-wrap space-x-4 space-y-6">
       <div>
         <h2>手上技术</h2>
@@ -158,10 +197,18 @@
                   <a
                     href="https://youtube.com/clip/UgkxiH8341haS03UxT4f16fPZHDmL00zC3jU?si=8l6CZDY-8AhwijR8">反手勾对角展示</a>
                 </li>
-                <li><a href="https://youtube.com/clip/Ugkx6nk-XcfxURp1C4ii_7bzNY9DcUwVvF--?si=iKMEu2WkPzcm0SJ3">反手展搓展示</a></li>
-                <li><a href="https://youtube.com/clip/UgkxjDawWqD-_Pjbi1q2F5YFWCSV-UtrbCTx?si=SeMd0J1YCfuARyPy">正手展搓展示</a></li>
-                <li><a href="https://youtube.com/clip/UgkxOne4Yu7RMHJ9bYB1-s5COxGYFGA_gcTZ?si=y4EzC-xlPg-KAy4g">回旋转球展示1</a></li>
-                <li><a href="https://youtube.com/clip/UgkxsgY25ONH9gnlPyaCiOJgLMKAJIR5vqQd?si=nDEsO2-2VvKCXy0J">回旋转球展示2</a></li>
+                <li><a
+                    href="https://youtube.com/clip/Ugkx6nk-XcfxURp1C4ii_7bzNY9DcUwVvF--?si=iKMEu2WkPzcm0SJ3">反手展搓展示</a>
+                </li>
+                <li><a
+                    href="https://youtube.com/clip/UgkxjDawWqD-_Pjbi1q2F5YFWCSV-UtrbCTx?si=SeMd0J1YCfuARyPy">正手展搓展示</a>
+                </li>
+                <li><a
+                    href="https://youtube.com/clip/UgkxOne4Yu7RMHJ9bYB1-s5COxGYFGA_gcTZ?si=y4EzC-xlPg-KAy4g">回旋转球展示1</a>
+                </li>
+                <li><a
+                    href="https://youtube.com/clip/UgkxsgY25ONH9gnlPyaCiOJgLMKAJIR5vqQd?si=nDEsO2-2VvKCXy0J">回旋转球展示2</a>
+                </li>
               </ul>
 
             </td>
@@ -183,7 +230,7 @@
 
           </tr>
           <!-- ----------------  远网技术 --------------- -->
-          <tr>            
+          <tr>
             <th>远网技术</th>
             <td>
               <details>
@@ -254,7 +301,49 @@
           <tr>
             <!-- ----------------  杀球 --------------- -->
             <th>杀球</th>
-            <td></td>
+            <td>
+              <details>
+                <summary>训练方法</summary>
+
+                <ul>
+                  <li><a
+                      href="https://youtube.com/clip/Ugkx8gdP4FymybJ5tbOIaVsieB0t31WVORqj?si=gUW-ZUzCzdvE7qkF">后场步伐</a>
+                  </li>
+                  <li><a
+                      href="https://youtube.com/clip/UgkxpCkWNQVozb9xX9nRAfazMyhcFQa9Yi65?si=-g5_VRFBSdRZhHdB">1234步伐</a>
+                  </li>
+                  <li>
+                    <a
+                      href="https://youtube.com/clip/Ugkx8lSaZpk_pwYWLtbahOoWO201ChPedJn4?si=YFbJYdrhvuIY84eL">1234步伐快速</a>
+                  </li>
+                  <li><a href="https://youtube.com/clip/Ugkx_bxDtC21icYqZgePSjiFVa33YFSasCpn?si=mrZTBrzu2SfsSRG3">丢球</a>
+                  </li>
+                  <li><a
+                      href="https://youtube.com/clip/Ugkx40BdtnCUBCsSYKNrNQMCD3G9wxMR3Fsn?si=fzPHa5lZmgowmXEv">挥空拍</a>
+                  </li>
+                  <li><a
+                      href="https://youtube.com/clip/UgkxKDwtkwOLHpat27e6m8csI8AKsP3bUv45?si=_-hRi8VVYCqYpFMd">杀球训练</a>
+                  </li>
+                  <li><a
+                      href="https://youtube.com/clip/Ugkxm809Bx4BPuV3pgfnKwYxYitfZPQebbI_?si=-gaNtAf0rgEbdYcC">半场杀球1v1</a>
+                  </li>
+                </ul>
+              </details>
+
+              <details>
+                <summary>杀球要点</summary>
+                <ul>
+                  <li><a
+                      href="https://youtube.com/clip/UgkxHRCO0bFe9nbWFR56mYZme_pBeHShya-T?si=HC5pdGN32TryUr-n">双脚交替发力</a>
+                  </li>
+                </ul>
+              </details>
+
+              <ul>
+                <li><a href="https://youtube.com/clip/UgkxmYwtMNlY1wfM2574f2yTA7NkQi5XZPFd?si=VmIGKsgOUnhF1g3Q">杀球展示</a>
+                </li>
+              </ul>
+            </td>
             <td>
               <details>
                 <summary>杀球要点</summary>
@@ -320,16 +409,66 @@
 
             </td>
           </tr>
-        </table>
-      </div>
+          <!-- ----------------  步伐 --------------- -->
+          <tr>
+            <th>步伐</th>
+            <td>
+              <details>
+                <summary>步伐要点</summary>
+                <ul>
+                  <li>启动时屈髋(不是蹲膝盖)</li>
+                  <li>启动时左右脚应有前后(不要平行)</li>
+                  <li><a href="https://youtube.com/clip/UgkxzwsHnhuT13qyRNHWTTOyTsqfl7eFnQUX?si=aFLAxqe0w2NOVQpg" target="_blank" rel="noopener noreferrer">移动中重心保持低到低或者低到高(不能高到低)</a></li>
+                  <li><a
+                      href="https://youtube.com/clip/UgkxchmJdyNTNA-_Ycwr0q4tprWmoLmqCxgE?si=NAyBC3z7uw5oCU6U">场地中心加速，击球前减速</a>
+                    <ul>
+                      <li><a
+                          href="https://youtube.com/clip/Ugkx1Oqe1i2Dywwm2nnermJOZdJ1czLtKbyX?si=QprONhU2J_nRufN1">反面教材1</a>
+                        <a href="https://youtube.com/clip/Ugkxz7koBn0uyZJRqMmKxZo7TCdMKhgch7rg?si=ctzKENs4XvnXzZN3"
+                          target="_blank" rel="noopener noreferrer">反面教材2</a>
+                      </li>
+                    </ul>
+                  </li>
 
-      <!-- ----------------  步伐 container --------------- -->
-      <div>
-        <h2>启动步伐</h2>
-        <ul>
-          <li><a href="https://youtube.com/clip/UgkxAlhIDu4G-R7RjNEVRIhZzS7spP3Djf_S?si=v4jwxnVDlCdQvHsv">田儿贤一启动步伐</a>
-          </li>
-        </ul>
+                </ul>
+              </details>
+
+              <ul>
+                <li><a target="_blank"
+                    href="https://youtube.com/clip/UgkxAlhIDu4G-R7RjNEVRIhZzS7spP3Djf_S?si=v4jwxnVDlCdQvHsv">启动步伐展示</a>
+                </li>
+                <li><a target="_blank"
+                    href="https://youtube.com/clip/Ugkxp7ynRtX1y-dJIgtYeqBzgaz9Slh1BjR1?si=iKdnDUqdecw6IUKD">正手前场步伐展示</a>
+                </li>
+                <li><a href="https://youtube.com/clip/Ugkxwv8DD9LGbJtyCLAu4wf2MJ4v9YJGZZk6?si=lJBPCyf5xhpsW-hu"
+                    target="_blank" rel="noopener noreferrer">正手前场步伐展示(有球)</a></li>
+                <li><a target="_blank"
+                    href="https://youtube.com/clip/UgkxW5mw5BYWTbtIy8O-aAzANQznCcBxKj7p?si=ArfcjZg4rZPTbz1U">反手前场步伐展示</a>
+                </li>
+                <li><a target="_blank"
+                    href="https://youtube.com/clip/UgkxhzvKCjQbvWtJv8J6p7T0fMyHgj43vOjO?si=MaB9TRlDnGkhHLPx">正手侧边步伐展示</a>
+                </li>
+                <li><a target="_blank"
+                    href="https://youtube.com/clip/Ugkx9UVoGnLPvJIoFxeWEtJzfyzVTtYV5zHJ?si=VJbHXA4oJ0TLT3dG">反手侧边步伐展示</a>
+                </li>
+                <li><a href="https://youtube.com/clip/UgkxfI_hwLmdlHYxYmycOHiC5w5F3xiRIvn-?si=OLjhWZWyUFlHA_sq"
+                    target="_blank" rel="noopener noreferrer">正手后场步伐展示</a></li>
+                <li><a href="https://youtube.com/clip/Ugkx2fQwM5xhiy3Zt6iKuWXsGpoNh0PQ86J8?si=SpCQJEJJ-tqLHfiZ"
+                    target="_blank" rel="noopener noreferrer">正手后场步伐展示(有球)</a></li>
+                <li><a href="https://youtube.com/clip/Ugkx29nBR-SYNrB1wCgqhDv1mht73epUfM-O?si=P6ZQ9jZOPBFOzaSM"
+                    target="_blank" rel="noopener noreferrer">头顶后场步伐展示</a>
+                  <ul class="text-xs">
+                    <li class="text-lime-800">我的正手底线步伐在移动中先发力然后放松</li>
+                    <li class="line-through">我的头顶底线步伐在移动中一直发力</li>
+                    <li>结论：我的头顶底线没有正手底线好</li>
+                  </ul>
+                </li>
+              </ul>
+            </td>
+            <td></td>
+            <td></td>
+          </tr>
+        </table>
       </div>
     </div>
 
